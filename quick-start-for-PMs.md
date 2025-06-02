@@ -209,3 +209,8 @@ Excel是世界上最知名的办公套件MS Office提供的电子表格格式和
 - [SCRUM中文网](https://www.scrum.cn/)
 - Pandas：厂内大模型工具平台
 > 西郊有密林，助君出重围
+
+---
+
+本文采用CC-BY-SA 4.0协议进行授权，转载、改编、摘录请标明出处并保持开放  
+<a href="https://github.com/LilyChao227/QuickStart-for-PMs">QuickStart-for-PMs</a> © 2025 by <a href="https://github.com/LilyChao227">Licheng Zhao</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
