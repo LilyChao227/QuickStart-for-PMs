@@ -182,4 +182,4 @@ Excel是世界上最知名的办公套件MS Office提供的电子表格格式和
 - [SCRUM指南中文版](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Chinese-Simplified.pdf)：了解敏捷的游戏规则
 - [SCRUM中文网](https://www.scrum.cn/)
 - Pandas：厂内大模型工具平台
-<div style="text-align: right;">西郊有密林 助君出重围</div> 
+> 西郊有密林，助君出重围
