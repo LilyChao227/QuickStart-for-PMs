@@ -1,2 +1,2 @@
-目录下全部内容采用CC BY-SA 4.0协议进行许可  
-<a href="https://github.com/LilyChao227/QuickStart-for-PMs">QuickStart-for-PMs</a> © 2025 by <a href="https://github.com/LilyChao227">Licheng Zhao</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+我没有任何技术背景，本站的构建过程主要得益于[DeepSeek-R1的指导](chat.deepseek.com)、[GitHub Pages的官方帮助文档](https://docs.github.com/en/pages/quickstart)、[Jekyllcn的教程](https://jekyllcn.com/docs/home/)与[Jonathan McGlone写的这篇奇妙的指南](https://jmcglone.com/guides/github-pages/)  
+请您帮助我进步:[E-mail](mailto:chaolc227@163.com)
