@@ -1,0 +1,10 @@
+# Umami 配置
+umami:
+  website_id: "c7e98973-ebec-4105-af1a-c167c7c84bb9"   # 替换你的实际ID
+
+# 指定默认布局
+defaults:
+  - scope:
+      path: ""  # 所有文件
+    values:
+      layout: "default"
