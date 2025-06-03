@@ -5,6 +5,6 @@ umami:
 # 指定默认布局
 defaults:
   - scope:
-      path: ""  # 所有文件
+      path: "quick-start-for-PMs.md"  # 所有文件
     values:
       layout: "default"
